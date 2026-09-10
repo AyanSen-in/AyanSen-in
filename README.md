@@ -217,6 +217,28 @@ for storing and managing expenses.
 
 <div align="center">
 
+<div align="center">
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=AyanSen-in&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+<br/>
+
+![](https://streak-stats.demolab.com/?user=AyanSen-in&theme=dark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AyanSen-in&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+<div align="center">
+
+![snake gif](https://github.com/AyanSen-in/AyanSen-in/blob/output/github-snake-dark.svg)
+
+</div>
+
 ## 📚 Currently Learning:
 
 ```text
