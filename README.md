@@ -68,24 +68,23 @@ Every error is part of the process.
 
 <p>
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/ayanseninf/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
 
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+  <a href="https://instagram.com/ayannsen" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:ayansen.inf@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
 
+  <a href="https://discord.com/users/connect.ayan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+  </a>
+
 </p>
-
-</div>
-
-<div align="center">
-
 ## 💻 Tech Stack:
 
 <div align="center">
